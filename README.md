@@ -69,6 +69,6 @@ This project **enhances home automation** by providing remote control, real-time
 ---
 
 📌 **Contributors:** Sujal.J, Aman.T, Ayush.W, Arnav.K
-📌 **GitHub Repository:** [Your Repo Link]  
+📌 **GitHub Repository:** https://github.com/Blaze-0903/KDK-HackathonX-IzGo
 📌 **License:** MIT
 
