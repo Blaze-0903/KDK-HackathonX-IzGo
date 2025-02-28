@@ -68,7 +68,7 @@ This project **enhances home automation** by providing remote control, real-time
 
 ---
 
-📌 **Contributors:** [Your Name]  
+📌 **Contributors:** Sujal.J, Aman.T, Ayush.W, Arnav.K
 📌 **GitHub Repository:** [Your Repo Link]  
 📌 **License:** MIT
 
